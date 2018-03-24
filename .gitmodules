@@ -1,0 +1,6 @@
+[submodule "nodebb-cn-docs"]
+	path = nodebb-cn-docs
+	url = git@github.com:NodeBB-China/nodebb-cn-docs.git
+[submodule "NodeBB"]
+	path = NodeBB
+	url = https://github.com/NodeBB/NodeBB.git
