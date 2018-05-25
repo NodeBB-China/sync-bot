@@ -87,7 +87,8 @@ async function sync() {
     console.log(err)
   }     
 }
-// sync()
+// for run test
+sync()
 // Register CronJob
 const job = new CronJob({
   cronTime: '1 */3 * * * *',
